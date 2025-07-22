@@ -6,7 +6,7 @@
 body {
   margin: 0;
   padding: 0;
-  background: linear-gradient(to right, #4e54c8, #8f94fb);
+  background: linear-gradient(to right, #020eff, #585962);
   min-height: 100vh;
   display: flex;
   justify-content: center;
